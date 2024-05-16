@@ -1,2 +1,13 @@
+pygame==2.4.0
 
+pyaudio==0.2.13
+
+pydub==0.25.1
+
+speechrecognition==3.10.0
+
+google-cloud-texttospeech==2.14.1
+
+openai==0.27.8
 random
+
