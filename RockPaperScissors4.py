@@ -1,6 +1,6 @@
 import random
 import streamlit as st
-import pygame
+
 
 #inisialize pygame mixer
 pygame.mixer.init()
